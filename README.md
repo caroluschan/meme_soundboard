@@ -10,14 +10,14 @@ Run the following command in terminal:
 2. press the key specified to play the desired sound effect
 3. press ctrl+c to exit
 
-##Sound Effect Catalogue
-+------+---------------------------------+
-| Key  | Sound Effect                    |
-+------+---------------------------------+
-| a    | Air Horn                        |
-| s    | Sad4me                          |
-| x    | Illuminati                      |
-| t    | Thug Life                       |
-| d    | dudludu dudludu dudludu dadada  |
-| k    | End Sound Effect                |
-+------+---------------------------------+
+##Sound Effect Catalogue  
++------+---------------------------------+  
+| Key  | Sound Effect                    |  
++------+---------------------------------+  
+| a    | Air Horn                        |  
+| s    | Sad4me                          |  
+| x    | Illuminati                      |  
+| t    | Thug Life                       |  
+| d    | dudludu dudludu dudludu dadada  |  
+| k    | End Sound Effect                |  
++------+---------------------------------+  
