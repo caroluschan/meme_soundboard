@@ -110,7 +110,8 @@ s,Sad4me
 x,Illuminati
 t,Thug Life
 d,dudludu dudludu dudludu dadada
-k,End Sound Effect"
+k,End Sound Effect
+r,Really Nigga"
 
 echo -e "\033[0;31m
   _____   ____   _____   ____  
@@ -130,7 +131,7 @@ printTable ',' "$table"
 echo Press Ctrl+C to exit
 
 DIR="$(dirname "$(readlink "$0")")"
-array=(a s x k t d)
+array=(a s x k t d r)
 pid=""
 tmp_pid=""
 while true;
