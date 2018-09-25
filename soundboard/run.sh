@@ -106,13 +106,16 @@ function ctrl_c() {
 
 table="Key,Sound Effect
 a,DJ Air Horn
+f,DJ Scratch
 s,Sad4me
-x,Illuminati
+x,Illuminati Confiormed
 t,Thug Life
 d,dudludu dudludu dudludu dadada
 r,Really Nigga
 p,Punch
 g,Shook
+m,Super Mario Game Over
+q,Dead Silence
 k,End Sound Effect"
 
 echo -e "\033[0;31m
@@ -133,7 +136,7 @@ printTable ',' "$table"
 echo Press Ctrl+C to exit
 
 DIR="$(dirname "$(readlink "$0")")"
-array=(a s x k t d r p g)
+array=(a s x k t d r p g m q f)
 pid=""
 tmp_pid=""
 while true;
