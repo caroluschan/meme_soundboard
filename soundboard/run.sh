@@ -108,7 +108,7 @@ table="Key,Sound Effect
 a,DJ Air Horn
 f,DJ Scratch
 s,Sad4me
-x,Illuminati Confiormed
+x,Illuminati Confirmed
 t,Thug Life
 d,dudludu dudludu dudludu dadada
 r,Really Nigga
